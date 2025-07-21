@@ -68,13 +68,13 @@ projeto/
 
 ## 📷 Imagem do jogo
 
-![Screenshot](./screenshot.png)
+![Screenshot](./src/assets/icons/jogo.jpg)
 
 ---
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por [Seu Nome Aqui] como parte do curso de **Desenvolvimento Front-End**.
+Projeto desenvolvido por Guilherme Moura como parte do curso de **Desenvolvimento Front-End** da plataforma **Digital Innovation One**.
 
 ---
 
